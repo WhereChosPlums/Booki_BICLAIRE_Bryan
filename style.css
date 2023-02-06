@@ -428,6 +428,7 @@ margin-left: 20px;
   .titre-trois{
     margin-left: 0;
     font-size: 12px;
+    padding-left: 10PX;
   }
 
   .liste-activites a article img {
